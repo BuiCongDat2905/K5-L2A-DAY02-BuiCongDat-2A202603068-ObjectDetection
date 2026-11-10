@@ -6,8 +6,8 @@
 
 | Lớp | Định nghĩa của bạn | Ví dụ/điểm phân biệt |
 | --- | --- | --- |
-| `car` | | |
-| `truck` | | |
+| `car` |Xe tự hành dùng động cơ (xăng, dầu, điện, hybrid...)để di chuyển chủ yếu trên đường bộ | |
+| `truck` |loại phương tiện cơ giới được thiết kế chuyên dụng để vận chuyển hàng hóa, vật liệu hoặc thực hiện các nhiệm vụ đặc thù | |
 | `bus` | | |
 | `van` | | |
 
